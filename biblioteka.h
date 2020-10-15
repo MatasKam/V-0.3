@@ -1,0 +1,23 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <fstream>
+#include <iomanip>
+#include <random>
+#include <numeric>
+
+using std::cout;
+using std::cin;
+using std::string;
+using std::vector;
+using std::endl;
+using std::setw;
+using std::setprecision;
+using std::fixed;
+using std::rand;
+using std::setfill;
+using std::ifstream;
+using std::get;
+using std::sort;
